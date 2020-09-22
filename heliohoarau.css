@@ -1,0 +1,75 @@
+p
+{
+text-align: center;
+}
+
+footer
+{
+  position: absolute;bottom:0;left: 0,right:0;
+}
+
+a
+{
+  text-decoration: none;
+  color:Black;
+}
+
+a:hover
+{
+text-decoration: underline;
+color:black;
+}
+header
+{
+  text-align: center;
+  margin: auto;center
+}
+
+input
+{
+  text-align: center;
+}
+.favoritestyled
+{
+  padding: 5px;
+  font
+  color:#f2f2f2;
+}
+
+.essai
+{
+  tet
+}
+.imput
+{
+
+  text-align: center;
+  	display:flex;
+  	align-items: center;
+  	justify-content: center;
+    position: relative;
+   		display: inherit;
+
+   	   }
+
+#conteneur
+{
+  width: 100px;
+  height:100px;
+  flex-direction:row;
+}
+.petitcubecube
+{
+  width: 20px;
+  height:20px;
+}
+.petiticone
+{
+  width:20px;
+  height: 20px;
+
+}
+.menunavigation
+{
+ margin-right: 10px;
+}
